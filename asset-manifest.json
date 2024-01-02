@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.314e23ce.chunk.css",
+    "main.js": "/static/js/main.cf1928ac.chunk.js",
+    "main.js.map": "/static/js/main.cf1928ac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0bc8eb10.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0bc8eb10.js.map",
+    "static/js/2.aa941ca0.chunk.js": "/static/js/2.aa941ca0.chunk.js",
+    "static/js/2.aa941ca0.chunk.js.map": "/static/js/2.aa941ca0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.314e23ce.chunk.css.map": "/static/css/main.314e23ce.chunk.css.map",
+    "static/js/2.aa941ca0.chunk.js.LICENSE.txt": "/static/js/2.aa941ca0.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/Hurme Geometric Sans 3 W03 Lt.e3d499e5.ttf",
+    "static/media/brand-twitter.b36c1ae5.svg": "/static/media/brand-twitter.b36c1ae5.svg",
+    "static/media/logo-large.61706e83.svg": "/static/media/logo-large.61706e83.svg",
+    "static/media/logo.1a4314a6.svg": "/static/media/logo.1a4314a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bc8eb10.js",
+    "static/js/2.aa941ca0.chunk.js",
+    "static/css/main.314e23ce.chunk.css",
+    "static/js/main.cf1928ac.chunk.js"
+  ]
+}
